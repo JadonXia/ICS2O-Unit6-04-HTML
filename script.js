@@ -6,7 +6,7 @@ let ans1 = 0
 let ans2 = 0
 
 // This script will connect my button to JavaScript.
-document.getElementById('button1')addEventListener('click', calculate1)
+document.getElementById('button1').addEventListener('click', calculate1)
 
 // This script will carry out the calculations.
 function calculate1 () {
@@ -16,5 +16,5 @@ function calculate1 () {
   a = parseInt(a)
   b = parseInt(b)
   h = parseInt(h)
-  alert = h((a + b) / 2)
+  alert = h ((a + b) / 2)
 }
