@@ -2,8 +2,6 @@
 let a = 0
 let b = 0
 let h = 0
-let ans1 = 0
-let ans2 = 0
 
 // This script will connect my button to JavaScript.
 document.getElementById('button1').addEventListener('click', calculate1)
