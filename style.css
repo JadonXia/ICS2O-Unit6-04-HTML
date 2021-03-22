@@ -21,3 +21,9 @@ body {
   width: 10%;
   height: 30%;
 }
+
+img {
+  border: solid black 2px;
+  width: 30%;
+  height: 30%;
+}
