@@ -14,5 +14,5 @@ function calculate1 () {
   a = parseInt(a)
   b = parseInt(b)
   h = parseInt(h)
-  alert(h ((a + b) / 2))
+  alert(h*((a + b) / 2))
 }
